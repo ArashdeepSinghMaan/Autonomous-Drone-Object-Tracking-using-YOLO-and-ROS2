@@ -127,14 +127,14 @@ This section presents the results from training the **YOLOv8n** model on the cus
 
 | Parameter | Value |
 |------------|--------|
-| **Dataset Version** | MobileRobotV1 |
-| **Model** | YOLOv8n (pretrained on COCO) |
+| **Dataset Version** | Custom|
+| **Model** | YOLOv8 |
 | **Epochs** | 100 |
-| **Image Size** | 640x640 |
+| **Image Size** | 512x512 |
 | **Batch Size** | 16 |
 | **Framework** | Ultralytics YOLOv8 |
 | **Hardware** | NVIDIA RTX 3060 |
-| **Classes** | 1 (`robot`) |
+| **Classes** | 1 (`huskya200`) |
 
 ---
 
