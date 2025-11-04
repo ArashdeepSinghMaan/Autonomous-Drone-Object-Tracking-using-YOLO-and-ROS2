@@ -168,10 +168,10 @@ Below are the training curves showing the evolution of losses and accuracy acros
 
 Sample validation images with predicted bounding boxes around the mobile robot:
 
-| Original | Detection |
-|-----------|------------|
-| <img src="docs/sample_original1.jpg" width="300"> | <img src="runs/detect/train/val_batch0_pred.jpg" width="300"> |
-| <img src="docs/sample_original2.jpg" width="300"> | <img src="runs/detect/train/val_batch1_pred.jpg" width="300"> |
+| Detection |
+|-----------|
+| <img src="runs/detect/train/val_batch0_pred.jpg" width="300"> |
+| <img src="runs/detect/train/val_batch1_pred.jpg" width="300"> |
 
 > ✅ The trained model correctly identifies the robot in varied orientations and distances, even under partial occlusion.
 
