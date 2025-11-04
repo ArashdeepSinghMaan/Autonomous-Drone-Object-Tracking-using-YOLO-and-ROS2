@@ -75,12 +75,12 @@ Deploy on Jetson + Pixhawk hardware.
 
 | Component | Technology |
 |------------|-------------|
-| **Middleware** | ROS2 Humble / Iron |
-| **Simulation** | Gazebo / Ignition |
+| **Middleware** | ROS2 Jazzy |
+| **Simulation** | Gazebo  |
 | **Autopilot (optional)** | PX4 + MAVROS2 |
 | **Detection** | YOLOv8 / YOLO-NAS (Ultralytics) |
 | **Languages** | Python / C++ |
-| **Hardware (optional)** | Jetson Nano / Orin + Pixhawk |
+| **Hardware (optional)** | Jetson Nano  + Pixhawk |
 | **Deployment** | Docker / Native ROS2 workspace |
 
 ---
